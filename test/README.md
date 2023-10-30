@@ -9,14 +9,4 @@ heyyyyy\
 hrhfrh\
 hiiii
 
-```
-<script async src="https://www.googletagmanager.com/gtag/js?id=YOUR_TRACKING_CODE"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag() {
-    dataLayer.push(arguments);
-  }
-  gtag('js', new Date());
-  gtag('config', 'YOUR_TRACKING_CODE');
-</script>
-```
+{% embed url="https://app.gitbook.com/o/4zgYxCqJTIPUIQ9mDM9E/s/TXCoIQy5IdxjeqGWPdZd/~/changes/10/" %}
